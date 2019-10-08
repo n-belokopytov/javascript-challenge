@@ -1,5 +1,4 @@
-
-export default  [
+export default [
   {
     name: 'Adaptive',
     answers: [
